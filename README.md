@@ -57,4 +57,4 @@ Para o deploy é necessário o git, nodejs e npm instalados.
 + inicie o servidor com `npm start`.
 
 # Reconhecimentos
-Essa API é uma síntese inspirada no Mussum Ipsum do [mussum-ipsum](https://github.com/diegofelipece/mussum-ipsum) do Diego Felipe. Vai lá dar um fork no repo dele.
+Essa API é uma síntese inspirada no Mussum Ipsum do [mussum-ipsum](https://github.com/diegofelipece/mussum-ipsum) do Diego Felipe. 
